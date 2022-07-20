@@ -1,0 +1,116 @@
+HTML:-
+	HTML stands for Hyper Text Markup Language
+
+	HTML is the standard markup language for creating Web pages.
+
+	HTML is the standard markup language for creating Web pages
+
+	HTML describes the structure of a Web page
+
+	HTML consists of a series of elements
+
+	HTML elements tell the browser how to display the content
+
+	HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+
+HTML Elements:-
+
+	An HTML element is defined by a start tag, some content, and an end tag.
+
+	The HTML element is everything from the start tag to the end tag:
+
+	<h1>heading</h1>
+
+	<p>paragraph</p>
+
+	Some HTML elements have no content. These elements are called empty elements. Empty elements do not have an end tag!
+
+	example:-
+		<br> It used for break the line
+
+		<hr> It used for horizontal line
+
+HTML Attributes:-
+
+	All HTML elements can have attributes
+
+	Attributes provide additional information about elements
+
+	Attributes are always specified in the start tag
+
+	Attributes usually come in name/value pairs like: name="value"
+
+	The "href" attribute specifies the URL of the page the link goes to website
+
+	The "src" attribute specifies the path to the image to be displayed
+
+	The <img> tag should also contain the "width" and "height" attributes, which specifies the width and height of the 	image
+
+
+
+HTML Basic:-
+
+	An HTML 5 document mainly consists of a Head and Body. The Head contains the data, which informs the browser and 	
+	
+	even web servers that it is an HTML 5 document. On the other hand, the Body contains content that web browsers 
+	
+	actually display.
+
+	This chapter covers all the major elements necessary to craft a basic HTML 5 document.
+
+	Each and every HTML 5 document employs a unique combination of elements and content to define a page. The structure 
+	of all the property documented pages is the same and contains:
+
+		A declaration at the top, which indicates that it is an HTML 5 document
+		
+		A document header
+
+		A document body
+
+	<!DOCTYPE> informs the browsers that it is actually an HTML 5 document. Although there are other types of DOC 	Types, this is the most commonly used declaration.
+
+	The DOCType Declaration is followed by <html></html> opening and closing tags. These tags contain everything inside 	the document, including the Head and Body
+
+	<head> </head> opening and closing tags, follow the opening Html tag. These tags contain information about the 	body, title of the page, definitions, labels, etc. You can only use certain markup elements in the HTML 5 head. 	Some of these elements include style, title, base, link, script, and meta. In HTML 5, these elements are 	collectively known as HTML Head Elements.
+
+	After the closing head tag is the <body> </body> opening and closing body tags. They contain all the content which 	appears on the browser, as well as the related HTML 5 codes.
+
+	Theoretically, you can create an HTML 5 document without anything in the body, but you need to have a well-crafted 	Head and Body to index your page properly in the browser.
+
+	<!--...-->	-	Defines a comment
+
+	<!DOCTYPE> 	-	Defibes the document type
+
+	<a></a>		-	Defines the link
+
+	<b></b>		- 	Defines the boldtext
+
+	<body></body>	-	defines document body
+
+	<br>		- 	Defines a single line break
+
+	<button>	-	Defines a clickable button
+
+	<div>		- 	Defines a section document
+
+	<form> 		-	Defines a html form for user input
+
+	<h1>to<h6>	-	Defines the heading
+
+	<hr>		-	Defines a underline in the content
+
+	<img>		- 	Defines a image
+
+	<input>		-	Defines a input control
+
+	<label>		-	Defines a label for an input element
+
+	<ul>		- 	defines unoederd list
+
+	<ol>		-	Defines orderd list
+
+	<li>		-	Define list item
+
+	<span>		- 	Define a section in document
+
+	<textarea>	-	Defines multiple line input control
